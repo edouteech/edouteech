@@ -1,5 +1,8 @@
 # 💫 About Me:
-    I am currently working as a Founder and Fullstack Laravel | React developer at EDOUTECH.<br>    I am currently learning more advanced concepts, such as scaling. I am seeking collaborations for freelancing projects or remote positions with larger companies.<br>    Fun fact: I am collecting certificates and participating in LeetCode challenges.
+    I am currently working as a Founder and Fullstack Laravel | React developer at EDOUTECH.<br>    
+    I am currently learning more advanced concepts, such as scaling. 
+    I am seeking collaborations for freelancing projects or remote positions with larger companies.<br>    
+    Fun fact: I am collecting certificates and participating in LeetCode challenges.
 
 
 ## 🌐 Socials:
